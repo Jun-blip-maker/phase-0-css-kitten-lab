@@ -37,3 +37,27 @@ write-your-selector-here {
   top: 217px;
   left: 223px;
 }
+
+.kitty-1 {
+  position: absolute;
+  top: 10rem;
+}
+
+#kitty-2 {
+  position: absolute;
+  top: 10rem;
+}
+
+#basket img {
+  position: absolute;
+  top: 10rem;
+}
+
+#ball + img {
+  position: absolute;
+  top: 10rem;
+}
+img[alt="Kitty 5"] {
+  position: absolute;
+  top: 10rem;
+}
